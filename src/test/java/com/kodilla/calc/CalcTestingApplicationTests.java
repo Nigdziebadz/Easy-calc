@@ -1,4 +1,4 @@
-package com.kodilla;
+package com.kodilla.calc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
